@@ -12,5 +12,5 @@
   
   - Run
   
-  ``` Docker run --rm -it -p 80:80 -p 443:443 test ```
+  ``` docker run --rm -it -p 80:80 -p 443:443 test ```
   
